@@ -1,4 +1,4 @@
-# Critical Review of the Deltakit Textbook on Quantum Error Correction
+#### Critical Review of the Deltakit Textbook on Quantum Error Correction
                                             Review and Validate By:Muhammad Hasnain Falaksher  
                                             Email:mhasnain@ele.qau.edu.pk
 
